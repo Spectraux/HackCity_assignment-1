@@ -1,0 +1,11 @@
+Pseudo code that reminds you to plug in to work every hour.
+STEP 1: Start
+STEP 2: Initialize hour, minute and seconds.
+STEP 3: Sync digital reminder or alarm clock with processor speed
+STEP 4: Set hourly interval 
+STEP 5: Set count timer to begin at zero minute
+STEP 6: If timer count = 60 minutes
+STEP 7: Display reminder with alarm, then restart timer count at zero minute.
+STEP 8: Else, keep timer counting and reconnect to STEP 6.
+STEP 9: Stop.
+NB: Reminder words = Plug in to work.

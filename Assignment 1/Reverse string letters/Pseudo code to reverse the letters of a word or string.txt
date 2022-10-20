@@ -1,0 +1,12 @@
+Pseudo code to reverse the letters of a word or string.
+STEP 1: Start
+STEP 2: Let word or string be Daniel (V, L) i.e., let the array for the word ‘Daniel’ be ‘V’ and the length be ‘L’
+STEP 3: Declare variables i, temp. (i.e., the index and a temp to store the data temporarily)
+STEP 4: Begin for loop, from ‘i = 0’ to ‘i = L/2’ for each 1 index increment 
+STEP 5: Within for loop; 
+                 temp = V [ i ]
+                 V [ i ] =  V [ L – i ]
+                 V [ L – i ] = temp
+STEP 6: End for loop
+STEP 7: Return ‘V’
+STEP 8: Stop

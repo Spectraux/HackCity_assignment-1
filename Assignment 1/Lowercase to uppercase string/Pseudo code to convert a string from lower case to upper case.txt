@@ -1,0 +1,6 @@
+Pseudo code to convert a string from lower case to upper case.
+STEP 1: Start
+STEP 2: Declare variable ‘Ch’
+STEP 3: Input string into the variable ‘Ch’
+STEP 4: If ‘Ch>=65 && Ch<=90’, process ‘Ch = Ch + 32’, then print ‘Ch’ then stop program.
+STEP 5: Else, stop program
